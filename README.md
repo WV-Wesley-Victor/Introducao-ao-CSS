@@ -1,0 +1,2 @@
+# introducao ao CSS
+ Este é um repositório no GitHub que apresenta uma coleção de exemplos práticos e recursos para aprimorar suas habilidades em CSS (Cascading Style Sheets). O objetivo deste projeto é fornecer inspiração e soluções para aplicar estilos e layouts em páginas HTML utilizando CSS de forma eficiente e criativa. Explore diversos exemplos de formatação, posicionamento, estilização de elementos e muito mais para melhorar a aparência e interatividade de suas páginas web.
