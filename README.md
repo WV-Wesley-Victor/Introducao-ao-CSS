@@ -3,7 +3,7 @@
 
  ![Captura de Tela (31)](https://github.com/WV-Wesley-Victor/Introducao-ao-CSS/assets/137107062/258bbd79-7d3b-4945-aebb-7d0560cabfdc)
  <p align="center">
-  <a href="https://wv-wesley-victor.github.io/Pagina-de-Login-Simplificada/" target="_blank">Clique aqui para visitar o projeto</a>
+  <a href="https://wv-wesley-victor.github.io/Introducao-ao-CSS/" target="_blank">Clique aqui para visitar o projeto</a>
 </p>
 
  ## Descrição
