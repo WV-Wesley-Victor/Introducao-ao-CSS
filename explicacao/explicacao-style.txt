@@ -1,0 +1,19 @@
+Agora vamos explicar o CSS:
+
+- body: Define o estilo para o elemento <body>, que é o corpo da página. A propriedade background-color define a cor de fundo do corpo como "rgb(153, 166, 203)", que é um tom de azul acinzentado.
+
+- h1: Define o estilo para os elementos <h1>, que são títulos principais. A propriedade color define a cor do texto como "red" (vermelho), font-family define a fonte como "Arial, Helvetica, sans-serif", font-size define o tamanho da fonte como "56px".
+
+- h2: Define o estilo para os elementos <h2>, que são títulos de nível 2. A propriedade font-size define o tamanho da fonte como "48px", font-style define a fonte em itálico, font-weight define o peso da fonte como "normal" (ou seja, não negrito).
+
+- h3: Define o estilo para os elementos <h3>, que são títulos de nível 3. A propriedade font-size define o tamanho da fonte como "38px", text-transform define a capitalização do texto, text-align define o alinhamento do texto como "center" (centro), text-decoration define o sublinhado para o texto e background-color define a cor de fundo como "blue" (azul).
+
+- p: Define o estilo para os elementos <p>, que são parágrafos. A propriedade text-indent define o recuo da primeira linha do parágrafo como "58px", font-size define o tamanho da fonte como "28px", text-align define o alinhamento do texto como "left" (esquerda), color define a cor do texto como "#dbd709" (um tom de amarelo) e font-variant define a variante da fonte como "small-caps" (caixa alta com letras pequenas).
+
+- a: Define o estilo para os elementos <a>, que são links. A propriedade text-decoration define que os links não terão decoração, como sublinhado, e font-variant define a variante da fonte como "normal".
+
+- .destaque: Define o estilo para elementos com a classe "destaque". A propriedade color define a cor do texto como "#00696d" (um tom de verde azulado) e font-weight define o peso da fonte como "bold" (negrito).
+
+- #titulo: Define o estilo para o elemento com o id "titulo". O id é identificado pelo seletor # seguido pelo nome do id. Neste caso, a propriedade color define a cor do texto como "#7b5101" (um tom de marrom dourado).
+
+Essas regras de estilo CSS afetam os elementos HTML da página e estilizam o texto, alinhamento e cor de acordo com as propriedades definidas.

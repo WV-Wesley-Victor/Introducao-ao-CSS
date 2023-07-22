@@ -1,0 +1,31 @@
+Vou explicar o código HTML e CSS:
+
+- <link rel="stylesheet" href="style.css" />: Este elemento <link> é usado para vincular uma folha de estilo externa chamada "style.css" ao documento HTML. Isso permite que o CSS seja aplicado à página para estilizar o conteúdo.
+
+- <style>: Essa tag permite adicionar estilos CSS diretamente no documento HTML. Qualquer estilo definido dentro dessa tag se aplica apenas a essa página específica.
+
+- p { color: red; }: Este é um seletor CSS que seleciona todos os elementos <p> (parágrafos) e define sua cor de texto como vermelha (red).
+
+- a { color: black; text-decoration: none; }: Este é um seletor CSS que seleciona todos os elementos <a> (âncoras) e define sua cor de texto como preta (black) e remove a decoração do texto, como sublinhado (text-decoration: none).
+
+- O código HTML apresenta uma página simples com os seguintes elementos:
+
+- <h1>: Título principal "Titulo".
+
+- <h2>: Subtítulo de nível 2 "titulo de nivel 2".
+
+- <h3>: Subtítulo de nível 3 "titulo de nivel 3".
+
+- <p>: Parágrafo com o texto "Veja o arquivo classes.html" e um link para o arquivo "classes.html".
+
+- Outro parágrafo <p> com um estilo inline definido usando style, com cor de texto "#00126d" (uma tonalidade de azul) e fonte em negrito.
+
+- <p class="destaque">: Parágrafo com a classe "destaque". O link dentro desse parágrafo é estilizado pelo seletor CSS a para ter cor de texto preta e nenhuma decoração.
+
+- Outro parágrafo <p> com um estilo inline definido usando style, com cor de texto "#00126d" (uma tonalidade de azul) e fonte em negrito.
+
+- Outro parágrafo <p> com texto simples.
+
+- Mais um parágrafo <p> com texto simples.
+
+Os estilos CSS definidos externamente e internamente são aplicados a diferentes elementos da página. O CSS externo vinculado através da folha de estilo "style.css" estiliza todos os parágrafos (<p>) da página com texto vermelho. O CSS interno, definido dentro da tag <style>, estiliza os links (<a>) para ter cor de texto preta e nenhuma decoração de texto. Além disso, alguns parágrafos também têm estilos inline definidos usando o atributo style.
